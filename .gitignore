@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# CSV datasets
+data/raw/*.csv
+data/processed/*.csv
+
+# Excel temporary files and unfinished copy
+~$*.xlsx
+Retail_Sales_Excel_Portfolio.xlsx
+
+# Secrets
+.env
+.env.*
