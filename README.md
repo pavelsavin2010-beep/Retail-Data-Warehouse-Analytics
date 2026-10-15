@@ -236,7 +236,6 @@ The analysis includes:
 
 ```text
 Retail_data_Warehouse/
-│
 ├── data/
 │   ├── raw/                        # Original source datasets
 │   │   ├── categories.csv
@@ -285,8 +284,7 @@ Retail_data_Warehouse/
 │       └── product_performance.png
 │
 ├── docs/
-├── README.md
-└── README.txt
+└── README.md
 ```
 ### Explore the Project
 
